@@ -1,4 +1,7 @@
-# elmejorrepositorio
+![river](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1653px-Escudo_del_C_A_River_Plate.svg.png)
+<h2>programador re novato, haciendo cursos en generacion t</h2>
+
+#elmejorrepositorio
 no hay descripcion, es el mejor repositorio
 <h1>la best biografia del world</h1>
 <div>
@@ -15,5 +18,3 @@ no hay descripcion, es el mejor repositorio
     <table/>
   <a href="https://www.instagram.com/lucas.arenas_?igsh=MWp2dTBtNG90Y21weQ==" target="blank">EL MEJOR IG DEL MUNDO<a/>
 <div/>
-<span> ![siteaparece este texto sos un boton](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1653px-Escudo_del_C_A_River_Plate.svg.png) <span/>
-<h2>programador re novato, haciendo cursos en generacion t</h2>
