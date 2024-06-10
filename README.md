@@ -15,5 +15,5 @@ no hay descripcion, es el mejor repositorio
     <table/>
   <a href="https://www.instagram.com/lucas.arenas_?igsh=MWp2dTBtNG90Y21weQ==">EL MEJOR IG DEL MUNDO
 <div/>
-<span> ![siteaparece este texto sos un boton](https://scontent.fsla1-1.fna.fbcdn.net/v/t39.30808-6/414920235_1071670957347291_1723367544537299475_n.jpg) <span/>
-<h2></h2>
+<span> ![siteaparece este texto sos un boton](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1653px-Escudo_del_C_A_River_Plate.svg.png) <span/>
+<h2>programador re novato, haciendo cursos en generacion t</h2>
